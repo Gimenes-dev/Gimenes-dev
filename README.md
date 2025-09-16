@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fernando Gimenes</h1>
+<h1 align="center">Olá 👋, sou Fernando Gimenes</h1>
 <h3 align="center">Atualmente fazendo Curso de Desenvolvimento e trabalho como Designer em um E-commerce.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gimenes-dev&label=Profile%20views&color=0e75b6&style=flat" alt="gimenes-dev" /> </p>
